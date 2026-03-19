@@ -49,3 +49,38 @@ A receita é um algoritmo porque tem entradas (ingredientes), passos ordenados e
 Portanto, o algoritmo é uma forma organizada de resolver problemas, utilizando a lógica de programação para definir os passos necessários.
 
 ---
+
+
+1. Introdução
+
+O Portugol Studio é um ambiente de desenvolvimento voltado ao ensino de lógica de programação. Ele utiliza uma linguagem simples, semelhante ao português, facilitando o aprendizado de iniciantes.
+
+2. Objetivo
+
+Compreender o funcionamento do Portugol Studio e desenvolver um programa simples que leia um número e exiba seu dobro.
+
+3. Desenvolvimento
+3.1 Código desenvolvido
+programa
+{
+    funcao inicio()
+    {
+        inteiro numero
+
+        escreva("Digite um número: ")
+        leia(numero)
+
+        escreva("Dobro: ", numero * 2)
+    }
+}
+3.2 Execução (exemplo)
+Digite um número: 4
+Dobro: 8
+4. Considerações finais
+
+O uso do Portugol Studio mostrou-se simples e intuitivo, sendo adequado para iniciantes. A linguagem em português facilita a compreensão da lógica, embora a ferramenta seja limitada para aplicações mais avançadas.
+
+5. Referência
+
+PORTUGOL STUDIO. Disponível em: https://portugol.dev
+. Acesso em: 19 mar. 2026.
