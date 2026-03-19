@@ -50,6 +50,7 @@ Portanto, o algoritmo é uma forma organizada de resolver problemas, utilizando 
 
 ---
 
+# Exercício 2 — Pergunta de investigação
 
 1. Introdução
 
