@@ -1,5 +1,5 @@
 /* 
-	Autores: Caua Balzaneli, Daniel Dresk Rei delas 2
+	Autores: Miguel Marcelo, Daniel Dresk Rei delas 2
 	Data: 26/02/2026
 	finalidade: O motorista de aplicativo abastece o tanque do seu carro com um determinado valor em reais. Ler o preço do litro de combustível e o valor que pretende abastecer. Calcular a quantidade de litro no abastecimento e exibir os dados lidos e o valor calculado.
 */
