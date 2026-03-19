@@ -1,5 +1,5 @@
 /* 
-	Autores: Caua Balzaneli, Daniel 
+	Autores: Miguel Marcelo, Daniel 
 	Data: 26/02/2026
 	finalidade: O vendedor recebe seu salário fixo acrescido de comissões de vendas, calculada a partir do percentual do valor de suas vendas. Ler o salário fixo do vendedor, o valor de suas vendas e o percentual sobre as vendas. Calcular e exibir o salário final do vendedor.
 */
