@@ -49,3 +49,40 @@ A receita é um algoritmo porque tem entradas (ingredientes), passos ordenados e
 Portanto, o algoritmo é uma forma organizada de resolver problemas, utilizando a lógica de programação para definir os passos necessários.
 
 ---
+# Exercício 2 — Pergunta de aplicação
+
+## Problema
+
+Um programa deve receber três números e mostrar qual deles é o maior.
+
+---
+
+## Algoritmo em linguagem natural
+
+1. Ler três números informados pelo usuário.  
+2. Comparar os três valores.  
+3. Identificar qual deles é o maior.  
+4. Exibir o maior valor na tela.
+
+---
+
+## Algoritmo em Portugol
+inicio
+   escreva("Digite o primeiro número: ")
+   leia(a)
+
+   escreva("Digite o segundo número: ")
+   leia(b)
+
+   escreva("Digite o terceiro número: ")
+   leia(c)
+
+   se (a >= b) e (a >= c) entao
+      escreval("O maior valor é: ", a)
+   senao
+      se (b >= a) e (b >= c) entao
+         escreval("O maior valor é: ", b)
+      senao
+         escreval("O maior valor é: ", c)
+      fimse
+   fimse
