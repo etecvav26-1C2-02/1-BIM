@@ -95,7 +95,7 @@ inicio
 
    escreval("O maior número é: ", maior)
 
-fimalgoritmo
+---
 
 # Exercício 3 — Pergunta de investigação
 
