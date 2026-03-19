@@ -1,5 +1,5 @@
 /* 
-	Autores: Caua Balzaneli, Daniel 
+	Autores: Miguel Marcelo, Daniel 
 	Data: 26/02/2026
 	finalidade: Ler a base menor, a base maior e a altura. Calcular e mostrar a área de um trapézio: (base menor + base maior) + altura / 2.
 */
