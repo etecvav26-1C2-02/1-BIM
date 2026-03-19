@@ -1,5 +1,5 @@
 /* 
-	Autores: Caua Balzaneli, Daniel de Sousa Araujo
+	Autores: Miguel Marcelo, Daniel de Sousa Araujo
 	Data: 26/02/2026
 	finalidade: Ler o peso de uma pessoa em quilos, calcular e mostrar o peso em gramas.
 */
