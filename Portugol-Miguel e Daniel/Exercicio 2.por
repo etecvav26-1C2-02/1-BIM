@@ -1,5 +1,5 @@
 /* 
-	Autores: Caua Balzaneli, Daniel Dresk Rei delas 2
+	Autores: Miguel Marcelo, Daniel Dresk Rei delas 2
 	Data: 26/02/2026
 	finalidade: Ler o nome e a idade do usuário. Calcular a idade em meses e dias. Exibir o nome e a idade em anos, meses e dias.
 */
