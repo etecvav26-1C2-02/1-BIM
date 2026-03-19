@@ -1,5 +1,5 @@
 /* /*
- *  	Autores: Caua Balzaneli, Daniel
+ *  	Autores: Miguel Marcelo, Daniel
    	Data: 26/02/2026
    	finalidade: O caixa do supermercado recebe uma certa quantidade de moedas por dia. Ler a quantidade de moedas recebidas de acordo com cada um dos valores 1, 5, 10, 25 e 50 centavos, e ainda moedas de 1 real. Calcular e exibir o valor recebido de cada um dos tipos de moeda e a soma total em moedas.
    */
