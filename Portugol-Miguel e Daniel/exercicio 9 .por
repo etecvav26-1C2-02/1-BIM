@@ -1,5 +1,5 @@
 /* 
-	Autores: Caua Balzaneli, Daniel 
+	Autores: Miguel Marcelo, Daniel 
 	Data: 26/02/2026
 	finalidade: Ler o peso de um boi e o percentual de engorda. Calcular e exibir o novo peso do boi.
 */
