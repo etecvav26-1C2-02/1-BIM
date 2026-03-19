@@ -1,5 +1,5 @@
 /* 
-	Autores: Caua Balzaneli, Daniel Dresk Rei delas 2
+	Autores: Miguel Marcelo, Daniel Dresk Rei delas 2
 	Data: 26/02/2026
 	finalidade: Ler a base e altura de um triângulo. Calcular e exibir a área do triângulo sabendo que área = base * altura / 2.
 */
