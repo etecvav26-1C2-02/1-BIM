@@ -98,3 +98,35 @@ inicio
    escreval("O maior número é: ", maior)
 
 fimalgoritmo
+
+# Exercício 3 — Pergunta de investigação
+
+## 1. Introdução
+
+O Portugol Studio é um ambiente de desenvolvimento voltado ao ensino de lógica de programação. Ele utiliza uma linguagem simples, semelhante ao português, facilitando o aprendizado de iniciantes.
+
+---
+
+## 2. Objetivo
+
+Compreender o funcionamento do Portugol Studio e desenvolver um programa simples que leia um número e exiba seu dobro.
+
+---
+
+## 3. Desenvolvimento
+
+### 3.1 Código desenvolvido
+
+```portugol
+programa
+{
+    funcao inicio()
+    {
+        inteiro numero
+
+        escreva("Digite um número: ")
+        leia(numero)
+
+        escreva("Dobro: ", numero * 2)
+    }
+}
