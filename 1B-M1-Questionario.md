@@ -67,6 +67,7 @@ Um programa deve receber três números e mostrar qual deles é o maior.
 ---
 
 ## Algoritmo em Portugol
+```portugol
 inicio
    escreva("Digite o primeiro número: ")
    leia(a)
