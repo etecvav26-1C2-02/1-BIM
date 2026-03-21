@@ -106,7 +106,7 @@ O **:contentReference[oaicite:0]{index=0}** é um ambiente de desenvolvimento vo
 
 O programa abaixo:
 - lê um número  
-- mostra o número multiplicado por 2  ```
+- mostra o número multiplicado por 2
 
 ```portugol
 programa
@@ -121,7 +121,7 @@ programa
         escreva("O dobro é: ", numero * 2)
     }
 }
-
+```
 # Exercício 4 — Pergunta de reflexão
 
 Ferramentas como IDEs, bibliotecas e frameworks ajudam os programadores a desenvolver sistemas mais rapidamente.
