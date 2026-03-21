@@ -87,6 +87,7 @@ inicio
          escreval("O maior valor é: ", c)
       fimse
    fimse
+```
 
 # Exercício 4 — Pergunta de reflexão
 
