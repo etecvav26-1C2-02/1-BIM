@@ -13,3 +13,11 @@ A Internet das Coisas são conjuntos de equipamentos/objetos do cotidiano que po
 ## Resposta
 
 Com o sistema embarcado, podemos ligar/desligar qualquer aparelho eletrônico (por exemplo, lâmpadas). Com isso, podemos desligar/ligar ou mudar a cor de uma iluminação inteira em segundos, apenas dando um comando de voz ou pelo aplicativo. Isso facilita o meio em que você controla sua *casa inteligente*, à distância ou não.
+
+# Exercício 3 — Pergunta de Investigação
+
+**Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste diferentes tempos de delay e registre o comportamento observado.**
+
+## Resposta
+
+No Tinkercad, podemos utilizar da linguagem C++ para modificar delays (intervalos) entre o acionamento de um LED. Com isso, podemos fazê-lo piscar, projetar semáforos, entre outros. O comportamento observado foi que os intervalos entre o acionamento mudaram de acordo com o código.
