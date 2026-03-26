@@ -27,13 +27,13 @@ programa
         }
         senao se (precoCompra <= 500.0)
         {
-            precoFinal = precoCompra - (precoCompra * 0.10)
+            precoFinal = precoCompra = (precoCompra * 0.10)
             escreva("Desconto de 10% aplicado.\n")
             escreva("Valor final: R$ ", precoFinal, "\n")
         }
         senao
         {
-            precoFinal = precoCompra - (precoCompra * 0.20)
+            precoFinal = precoCompra = (precoCompra * 0.20)
             escreva("Desconto de 20% aplicado.\n")
             escreva("Valor final: R$ ", precoFinal, "\n")
         }
