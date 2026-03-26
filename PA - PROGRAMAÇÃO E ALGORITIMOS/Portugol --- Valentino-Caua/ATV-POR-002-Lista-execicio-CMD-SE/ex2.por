@@ -13,7 +13,7 @@ programa
        
         real lado1, lado2, lado3
 
-        // Leitura dos valores
+        
         escreva("Informe o lado 1: ")
         leia(lado1)
 
