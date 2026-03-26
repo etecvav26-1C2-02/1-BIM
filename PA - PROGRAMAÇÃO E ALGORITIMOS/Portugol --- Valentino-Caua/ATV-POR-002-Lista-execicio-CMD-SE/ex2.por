@@ -16,7 +16,7 @@ programa
 		leia(lado3)
 
 		se (lado1 < lado2 + lado3 e lado2 < lado1 + lado3 e lado3 < lado1 + lado2) {
-			escreva("fudeu")	
+				
 			
 			se (lado1 == lado2 e lado1 == lado3) {
 			 escreva ("equilatero")
