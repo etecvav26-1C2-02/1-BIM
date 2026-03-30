@@ -20,7 +20,7 @@ Outro exemplo são os **assistentes virtuais (smart speakers)**, como:
 
 Esses dispositivos atuam como interfaces de voz que conectam e controlam uma vasta rede de dispositivos IoT.
 
-exercicio2# Sistema de Iluminação Residencial Embarcado
+# Exercicio 2 - Sistema de Iluminação Residencial Embarcado
 
 Um sistema embarcado pode transformar a iluminação de uma casa em algo **inteligente**, **econômico** e **seguro**, usando sensores, microcontroladores e atuadores para tomar decisões em tempo real. Uma grande vantagem é que ele pode ser totalmente offline, de baixo custo e adaptado exatamente às rotinas do morador.
 
