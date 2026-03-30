@@ -97,3 +97,21 @@ Em resumo, o microcontrolador funciona como o "cérebro" do sistema embarcado, c
 **Circuito:** O botão é conectado a um pino digital do Arduino (ex: pino 7) com resistor pull-down, e o LED ao pino 13.
 
 **Código:**
+```cpp
+const int pinoLED = 13;
+const int pinoBotao = 7;
+
+void setup() {
+  pinMode(pinoLED, OUTPUT);
+  pinMode(pinoBotao, INPUT);
+}
+
+void loop() {
+  int estado = digitalRead(pinoBotao);
+  if (estado == HIGH) {
+    digitalWrite(pinoLED, HIGH);
+  } else {
+    digitalWrite(pinoLED, LOW);
+  }
+}
+```
