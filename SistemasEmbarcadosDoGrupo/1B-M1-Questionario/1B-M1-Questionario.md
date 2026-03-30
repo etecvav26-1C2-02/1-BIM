@@ -88,3 +88,37 @@ inicio
       fimse
    fimse
 ```
+
+# Exercício 3 — Pergunta de investigação
+
+## 🔎 O que é o Portugol Studio?
+
+O **:contentReference[oaicite:0]{index=0}** é um ambiente de desenvolvimento voltado para o ensino de lógica de programação. Ele utiliza uma linguagem simples, parecida com o português (chamada *Portugol*), facilitando o aprendizado para iniciantes.
+
+### 👉 Para que é utilizado?
+- Aprender lógica de programação  
+- Criar algoritmos simples  
+- Praticar conceitos antes de linguagens mais avançadas (como Python, Java, C, etc.)
+
+---
+
+## 💻 Programa criado
+
+O programa abaixo:
+- lê um número  
+- mostra o número multiplicado por 2
+
+```portugol
+programa
+{
+    funcao inicio()
+    {
+        inteiro numero
+
+        escreva("Digite um número: ")
+        leia(numero)
+
+        escreva("O dobro é: ", numero * 2)
+    }
+}
+```
