@@ -64,3 +64,10 @@ Suas principais funções são:
 - **Gerenciar comunicação** — troca dados com outros dispositivos via protocolos como UART, SPI, I2C ou Wi-Fi
 
 Em resumo, o microcontrolador funciona como o "cérebro" do sistema embarcado, coordenando todos os recursos de hardware para realizar uma tarefa específica de forma autônoma e eficiente.
+
+
+## Exercício 6 — Pergunta de Aplicação
+
+**Pergunta:** Proponha um projeto simples utilizando sensores e atuadores para resolver um problema real.
+
+**Resposta:**
