@@ -114,3 +114,8 @@ void loop() {
   }
 }
 ```
+
+
+**Funcionamento:** O Arduino lê continuamente o estado do botão. Quando pressionado, o pino recebe nível lógico HIGH e o LED é aceso. Ao soltar, o sinal volta a LOW e o LED apaga. O resistor pull-down garante leitura estável quando o botão não está pressionado, evitando flutuação de sinal.
+
+---
