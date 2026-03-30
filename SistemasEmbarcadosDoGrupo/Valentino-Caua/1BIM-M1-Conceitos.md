@@ -128,3 +128,13 @@ void loop() {
 O movimento maker contribui para o aprendizado em tecnologia ao adotar uma abordagem prática e criativa baseada no conceito de "aprender fazendo". Em vez de absorver teoria de forma passiva, o estudante constrói, erra, ajusta e aprende com o processo.
 
 Suas principais contribuições são:
+- **Aprendizado ativo** — projetos reais criam contexto e motivação genuína
+- **Interdisciplinaridade** — une eletrônica, programação, design e resolução de problemas
+- **Cultura de colaboração** — comunidades maker compartilham conhecimento abertamente
+- **Acessibilidade** — ferramentas como Arduino e Raspberry Pi tornam a tecnologia acessível a qualquer pessoa
+- **Empreendedorismo e inovação** — incentiva a criar soluções próprias para problemas reais
+- **Resiliência** — lidar com falhas e depurar erros forma pensamento crítico e persistência
+
+Em resumo, o movimento maker democratiza o acesso à tecnologia e forma profissionais mais criativos, autônomos e preparados para os desafios do mercado.
+
+---
