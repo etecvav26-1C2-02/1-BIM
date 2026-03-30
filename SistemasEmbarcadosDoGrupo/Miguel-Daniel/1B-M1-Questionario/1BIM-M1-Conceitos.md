@@ -72,10 +72,8 @@ Ele integra em um único chip o processador (CPU), a memória e periféricos com
 Sua função é ler dados de sensores, processá-los conforme o programa e tomar decisões, enviando comandos para atuadores como motores, LEDs e relés. 
 Também permite a automação de tarefas repetitivas, realiza comunicação com outros dispositivos e opera em tempo real, respondendo rapidamente a eventos.
 
-Exercício 6 — Pergunta de aplicação
+# Exercício 6 — Pergunta de aplicação
 Proponha um projeto simples utilizando sensores e atuadores para resolver um problema real.
-
-# Projeto IoT: Horta Inteligente (Smart Garden)
 
 Este projeto propõe uma solução automatizada para o monitoramento e irrigação de plantas, resolvendo o problema real do desperdício de água e da perda de cultivos por falta de manutenção manual.
 
