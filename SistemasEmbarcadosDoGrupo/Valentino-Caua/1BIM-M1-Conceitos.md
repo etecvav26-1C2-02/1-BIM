@@ -26,7 +26,23 @@ No Tinkercad, podemos utilizar da linguagem C++ para modificar delays (intervalo
 
 ## Resposta
 
-✅ Vantagens: Baixo custo, alta customização, forte comunidade e transparência total do design, ideal para protótipos e inovação rápida em IoT.
-❌ Desvantagens: Qualidade e confiabilidade variáveis, suporte limitado, dificuldades com certificações e maior exposição de vulnerabilidades de segurança.
-Em resumo, é excelente para projetos educacionais, POCs e soluções de baixo custo, mas exige cuidados para produção em escala comercial.
-Muitos projetos começam com open source e migram para customizado depois
+### ✅ Vantagens
+
+- Baixo custo
+- Alta customização
+- Forte comunidade
+- Transparência total do design
+- Ideal para protótipos e inovação rápida em IoT
+
+### ❌ Desvantagens
+
+- Qualidade e confiabilidade variáveis
+- Suporte limitado
+- Dificuldades com certificações
+- Maior exposição de vulnerabilidades de segurança
+
+### 📝 Resumo
+
+É excelente para projetos educacionais, POCs e soluções de baixo custo, mas exige cuidados para produção em escala comercial.
+
+> Muitos projetos começam com open source e migram para customizado depois.
