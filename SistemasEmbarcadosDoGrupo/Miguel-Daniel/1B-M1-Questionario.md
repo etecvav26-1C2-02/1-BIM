@@ -33,7 +33,7 @@ Para montar esse sistema, precisaríamos dos seguintes componentes:
 **Atuador (Saída):** Um **módulo relé** ou **dimmer**, que recebe os comandos do microcontrolador para ligar, desligar ou controlar a intensidade da lâmpada de forma física.
 ---
 
-### 🔎 Exercício 3 — Pergunta de investigação  
+# 🔎 Exercício 3 — Pergunta de investigação  
 Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste diferentes tempos de delay e registre o comportamento observado.
 
 ---
