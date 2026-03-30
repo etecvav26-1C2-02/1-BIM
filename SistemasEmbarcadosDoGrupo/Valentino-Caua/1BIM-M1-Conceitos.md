@@ -71,3 +71,13 @@ Em resumo, o microcontrolador funciona como o "cérebro" do sistema embarcado, c
 **Pergunta:** Proponha um projeto simples utilizando sensores e atuadores para resolver um problema real.
 
 **Resposta:**
+
+**Projeto: Sistema de Alerta de Nível de Água em Caixa D'água**
+
+**Problema real:** Caixas d'água que transbordam ou ficam vazias sem que o morador perceba.
+
+**Componentes:**
+- Sensor ultrassônico (HC-SR04) — mede o nível da água
+- Microcontrolador (Arduino Uno)
+- Buzzer — alerta sonoro
+- LED vermelho — sinalização visual
