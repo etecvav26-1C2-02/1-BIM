@@ -46,3 +46,21 @@ No Tinkercad, podemos utilizar da linguagem C++ para modificar delays (intervalo
 É excelente para projetos educacionais, POCs e soluções de baixo custo, mas exige cuidados para produção em escala comercial.
 
 > Muitos projetos começam com open source e migram para customizado depois.
+
+## Exercício 5 — Pergunta Conceitual
+
+**Pergunta:** Qual a função de um microcontrolador em um sistema embarcado?
+
+**Resposta:**
+
+O microcontrolador é o componente central de um sistema embarcado, responsável por processar informações e controlar o comportamento do sistema. Ele integra em um único chip a CPU (unidade de processamento), memória (RAM e Flash) e periféricos de entrada/saída (GPIO, UART, SPI, I2C, ADC, entre outros).
+
+Suas principais funções são:
+
+- **Executar o firmware** — roda o programa gravado na memória, tomando decisões com base na lógica programada
+- **Ler entradas** — captura dados de sensores, botões e outros dispositivos conectados
+- **Processar dados** — realiza cálculos, comparações e lógica de controle
+- **Controlar saídas** — aciona atuadores, displays, LEDs, motores, relés, etc.
+- **Gerenciar comunicação** — troca dados com outros dispositivos via protocolos como UART, SPI, I2C ou Wi-Fi
+
+Em resumo, o microcontrolador funciona como o "cérebro" do sistema embarcado, coordenando todos os recursos de hardware para realizar uma tarefa específica de forma autônoma e eficiente.
