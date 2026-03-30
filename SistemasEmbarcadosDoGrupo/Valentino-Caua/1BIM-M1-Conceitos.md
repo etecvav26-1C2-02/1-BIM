@@ -115,7 +115,16 @@ void loop() {
 }
 ```
 
-
 **Funcionamento:** O Arduino lê continuamente o estado do botão. Quando pressionado, o pino recebe nível lógico HIGH e o LED é aceso. Ao soltar, o sinal volta a LOW e o LED apaga. O resistor pull-down garante leitura estável quando o botão não está pressionado, evitando flutuação de sinal.
 
 ---
+
+## Exercício 8 — Pergunta de Reflexão
+
+**Pergunta:** Como o movimento maker contribui para o aprendizado em tecnologia?
+
+**Resposta:**
+
+O movimento maker contribui para o aprendizado em tecnologia ao adotar uma abordagem prática e criativa baseada no conceito de "aprender fazendo". Em vez de absorver teoria de forma passiva, o estudante constrói, erra, ajusta e aprende com o processo.
+
+Suas principais contribuições são:
