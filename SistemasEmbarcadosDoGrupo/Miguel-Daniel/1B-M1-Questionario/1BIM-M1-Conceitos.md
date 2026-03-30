@@ -72,6 +72,32 @@ Ele integra em um único chip o processador (CPU), a memória e periféricos com
 Sua função é ler dados de sensores, processá-los conforme o programa e tomar decisões, enviando comandos para atuadores como motores, LEDs e relés. 
 Também permite a automação de tarefas repetitivas, realiza comunicação com outros dispositivos e opera em tempo real, respondendo rapidamente a eventos.
 
+Exercício 6 — Pergunta de aplicação
+Proponha um projeto simples utilizando sensores e atuadores para resolver um problema real.
+
+# Projeto IoT: Horta Inteligente (Smart Garden)
+
+Este projeto propõe uma solução automatizada para o monitoramento e irrigação de plantas, resolvendo o problema real do desperdício de água e da perda de cultivos por falta de manutenção manual.
+
+## 🛠️ Arquitetura do Sistema
+
+O sistema opera em uma malha de controle fechada, onde a leitura dos sensores determina a ativação dos atuadores.
+
+### Sensores (Entrada de Dados)
+* **Higrômetro de Solo:** Monitora o percentual de umidade na terra em tempo real.
+* **DHT11:** Coleta dados de temperatura e umidade do ar para análise do microclima.
+
+### Atuadores (Resposta do Sistema)
+* **Mini Bomba d'água:** Ativada via Relé para realizar a irrigação física.
+* **Display LCD:** Interface local para visualização rápida dos status do sistema.
+
+## ⚙️ Funcionamento Lógico
+1. **Coleta:** O microcontrolador (ESP32) lê os níveis de umidade do solo.
+2. **Processamento:** O sistema compara o valor lido com um limite crítico .
+3. **Ação:** Caso o solo esteja seco, a bomba é acionada por um tempo determinado.
+4. **Comunicação:** Os dados são enviados via Wi-Fi para um dashboard no celular do usuário.
+
+
 # Exercício 7- Pergunta de investigação
 
 No simulador,O funcionamento ocorre da seguinte forma: o microcontrolador verifica continuamente o estado do botão por meio de uma entrada digital.
