@@ -98,20 +98,19 @@ Em resumo, o microcontrolador funciona como o "cérebro" do sistema embarcado, c
 
 **Código:**
 ```cpp
-const int pinoLED = 13;
-const int pinoBotao = 7;
+
 
 void setup() {
-  pinMode(pinoLED, OUTPUT);
-  pinMode(pinoBotao, INPUT);
+  pinMode(13, OUTPUT);
+  pinMode(7, INPUT);
 }
 
 void loop() {
   int estado = digitalRead(pinoBotao);
   if (estado == HIGH) {
-    digitalWrite(pinoLED, HIGH);
+    digitalWrite(13, HIGH);
   } else {
-    digitalWrite(pinoLED, LOW);
+    digitalWrite(7, LOW);
   }
 }
 ```
