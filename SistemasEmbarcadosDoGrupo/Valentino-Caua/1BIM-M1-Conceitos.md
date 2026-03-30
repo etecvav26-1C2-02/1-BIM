@@ -138,3 +138,13 @@ Suas principais contribuições são:
 Em resumo, o movimento maker democratiza o acesso à tecnologia e forma profissionais mais criativos, autônomos e preparados para os desafios do mercado.
 
 ---
+
+## Exercício 9 — Pergunta de Aplicação
+
+**Pergunta:** Explique como sensores e atuadores trabalham juntos em um sistema de irrigação automatizado.
+
+**Resposta:**
+
+Em um sistema de irrigação automatizado, sensores e atuadores atuam de forma complementar, formando um ciclo contínuo de monitoramento e resposta:
+
+1. **Sensor de umidade do solo** — detecta quando o solo está seco abaixo de um nível definido e envia o sinal ao microcontrolador
