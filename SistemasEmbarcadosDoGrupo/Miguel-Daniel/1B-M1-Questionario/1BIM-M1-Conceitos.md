@@ -64,3 +64,11 @@ Ele integra em um único chip o processador (CPU), a memória e periféricos com
 Sua função é ler dados de sensores, processá-los conforme o programa e tomar decisões, enviando comandos para atuadores como motores, LEDs e relés. 
 Também permite a automação de tarefas repetitivas, realiza comunicação com outros dispositivos e opera em tempo real, respondendo rapidamente a eventos.
 
+# Exercício 7- Pergunta de investigação
+
+No simulador,O funcionamento ocorre da seguinte forma: o microcontrolador verifica continuamente o estado do botão por meio de uma entrada digital.
+Eu adicionei um botão ao circuito do LED para controlar quando ele liga ou desliga.
+O funcionamento é o seguinte: o microcontrolador fica verificando o tempo todo se o botão está pressionado.
+Quando eu aperto o botão, ele recebe um sinal (nível lógico alto) e então acende o LED. Quando eu solto o
+botão, o sinal volta para nível baixo e o LED apaga, ou seja, o LED só fica aceso enquanto o botão estiver pressionado.
+
