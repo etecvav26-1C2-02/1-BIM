@@ -122,3 +122,23 @@ programa
     }
 }
 ```
+# Exercício 4 — Pergunta de reflexão
+
+Ferramentas como IDEs, bibliotecas e frameworks ajudam os programadores a desenvolver sistemas mais rapidamente.
+
+---
+
+## Perguntas e respostas
+
+### Por que essas ferramentas são importantes no desenvolvimento de software?
+
+Pois elas permitem que o desenvolvedor foque na lógica do código em vez da infraestrutura.  
+Além disso, tornam o desenvolvimento mais produtivo, padronizado e organizado.
+
+---
+
+### Quais problemas poderiam surgir se os programadores precisassem desenvolver todos os componentes do zero?
+
+O desenvolvimento seria mais caro e demorado.  
+Além disso, contratar serviços ficaria mais difícil e os sistemas poderiam ser menos eficientes.
+
