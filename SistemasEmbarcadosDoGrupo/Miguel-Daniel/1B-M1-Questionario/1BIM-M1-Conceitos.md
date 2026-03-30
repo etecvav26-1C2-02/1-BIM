@@ -104,6 +104,22 @@ O funcionamento é o seguinte: o microcontrolador fica verificando o tempo todo 
 Quando eu aperto o botão, ele recebe um sinal (nível lógico alto) e então acende o LED. Quando eu solto o
 botão, o sinal volta para nível baixo e o LED apaga, ou seja, o LED só fica aceso enquanto o botão estiver pressionado.
 
+# Exercício 8 — Pergunta de reflexão
+Como o movimento maker contribui para o aprendizado em tecnologia.
+
+## 1. Aprendizado Ativo (Learning by Doing)
+Diferente do ensino passivo, o maker aprende ao enfrentar problemas reais de construção. Ao tentar acender um LED ou programar um sensor, o estudante é forçado a entender conceitos de eletrônica e lógica de programação na prática.
+
+## 2. Democratização de Ferramentas Complexas
+A disseminação de tecnologias como impressoras 3D, cortadoras a laser e microcontroladores (Arduino, Raspberry Pi) permitiu que indivíduos comuns criassem protótipos que antes exigiam grandes parques industriais. Isso remove a barreira de entrada para a inovação e estimula o interesse por carreiras STEM (Ciência, Tecnologia, Engenharia e Matemática).
+
+## 3. Cultura de Colaboração e Código Aberto
+O aprendizado maker é intrinsecamente social. Através de fóruns, Wikis e MakerSpaces, o conhecimento é compartilhado livremente. Isso ensina aos novos estudantes o valor da documentação e da colaboração, preparando-os para o mercado de trabalho moderno, onde o trabalho em equipe e o uso de repositórios (como GitHub) são padrões.
+
+## 4. Transdisciplinaridade
+Um projeto maker raramente é apenas sobre "código". Ele geralmente envolve design físico, mecânica, eletrônica e, às vezes, artes. Essa visão holística ajuda o aprendiz a conectar áreas do conhecimento que pareciam isoladas na escola tradicional, desenvolvendo um pensamento crítico e sistêmico sobre como o mundo funciona.
+
+> **Reflexão Final:** O movimento maker não ensina apenas a usar ferramentas; ele ensina a **mentalidade de solução de problemas**. Ele empodera o indivíduo a deixar de ser apenas um consumidor passivo de tecnologia para se tornar um criador ativo.
 # Exercício 9 — Pergunta de aplicação
 
 No meu sistema de irrigação automatizado, os sensores e atuadores trabalham juntos para manter as plantas sempre irrigadas sem que eu precise mexer.
