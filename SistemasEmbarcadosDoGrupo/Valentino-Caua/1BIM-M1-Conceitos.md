@@ -21,3 +21,12 @@ Com o sistema embarcado, podemos ligar/desligar qualquer aparelho eletrônico (p
 ## Resposta
 
 No Tinkercad, podemos utilizar da linguagem C++ para modificar delays (intervalos) entre o acionamento de um LED. Com isso, podemos fazê-lo piscar, projetar semáforos, entre outros. O comportamento observado foi que os intervalos entre o acionamento mudaram de acordo com o código.
+
+# Exercício 4 - Pergunta de Reflexão
+
+## Resposta
+
+✅ Vantagens: Baixo custo, alta customização, forte comunidade e transparência total do design, ideal para protótipos e inovação rápida em IoT.
+❌ Desvantagens: Qualidade e confiabilidade variáveis, suporte limitado, dificuldades com certificações e maior exposição de vulnerabilidades de segurança.
+Em resumo, é excelente para projetos educacionais, POCs e soluções de baixo custo, mas exige cuidados para produção em escala comercial.
+Muitos projetos começam com open source e migram para customizado depois
