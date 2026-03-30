@@ -54,6 +54,14 @@ Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste
 - Quanto maior o valor do delay, mais lento será o piscar do LED.  
 - O ciclo completo (aceso + apagado) é a soma dos dois delays.  
 - Para criar uma piscada assimétrica (por exemplo: aceso rápido e apagado lento), basta usar valores diferentes nos dois `delay()`.
+  # Exercício 4 — Pergunta de reflexão
+Quais são as vantagens e desvantagens do uso de hardware open source em projetos de IoT?
+
+O uso de hardware de código aberto em ecossistemas de IoT representa um equilíbrio entre a liberdade criativa e a responsabilidade técnica. No âmbito das **vantagens**, a principal força reside na democratização tecnológica. O baixo custo é impulsionado pela ausência de taxas de licenciamento e pela existência de inúmeros recursos gratuitos. A alta capacidade de customização, aliada a uma comunidade global extremamente ativa, permite que o desenvolvedor utilize diversos tutoriais e esquemáticos abertos para garantir total transparência sobre o funcionamento do dispositivo. Além disso, essa abordagem reduz drasticamente a dependência de fabricantes específicos e serve como uma ferramenta excepcional para o aprendizado prático e a evolução técnica.
+
+> **Nota de Implementação:** A transparência do hardware aberto é um pilar fundamental para a segurança em camadas, permitindo auditorias que hardwares proprietários impossibilitam.
+
+Por outro lado, as **desvantagens** surgem conforme o projeto amadurece para o nível industrial. O desenvolvimento exige um conhecimento técnico muito mais profundo do que soluções "plug-and-play", uma vez que não existe uma garantia oficial de suporte ou manutenção. A falta de padronização entre diferentes fabricantes de componentes abertos pode gerar inconsistências graves, resultando em um gasto significativamente maior de horas dedicadas a testes, depuração e ajustes finos. Por fim, a transição para a escala comercial apresenta barreiras complexas, especialmente no que diz respeito a certificações regulatórias e à estabilidade da cadeia de suprimentos a longo prazo.
   
   # Exercício 5 — Pergunta conceitual
 
