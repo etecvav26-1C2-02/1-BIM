@@ -104,3 +104,12 @@ O funcionamento é o seguinte: o microcontrolador fica verificando o tempo todo 
 Quando eu aperto o botão, ele recebe um sinal (nível lógico alto) e então acende o LED. Quando eu solto o
 botão, o sinal volta para nível baixo e o LED apaga, ou seja, o LED só fica aceso enquanto o botão estiver pressionado.
 
+# Exercício 9 — Pergunta de aplicação
+
+No meu sistema de irrigação automatizado, os sensores e atuadores trabalham juntos para manter as plantas sempre irrigadas sem que eu precise mexer.
+Os sensores medem coisas do ambiente, como a umidade do solo, a temperatura e a luz. Por exemplo, o sensor de umidade do solo detecta se a terra está seca ou molhada.
+Os atuadores recebem comandos do microcontrolador com base nesses sensores e fazem ações físicas. No meu caso, o atuador é a bomba de água ou a válvula que liga e desliga a água.
+Funciona assim: o sensor mede a umidade do solo e manda a informação para o microcontrolador. Ele compara com o nível de umidade que eu programei.
+Se o solo estiver seco, o microcontrolador liga o atuador para irrigar as plantas. Quando o solo fica no nível certo de umidade, ele desliga o atuador.
+Assim, os sensores me passam informações em tempo real e os atuadores agem de acordo, deixando o sistema funcionar automaticamente e de forma eficiente.
+
