@@ -54,4 +54,13 @@ Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste
 - Quanto maior o valor do delay, mais lento será o piscar do LED.  
 - O ciclo completo (aceso + apagado) é a soma dos dois delays.  
 - Para criar uma piscada assimétrica (por exemplo: aceso rápido e apagado lento), basta usar valores diferentes nos dois `delay()`.
+  
+  # Exercício 5 — Pergunta conceitual
+
+**Qual a função de um microcontrolador em um sistema embarcado?**
+
+Um microcontrolador em um sistema embarcado atua como o “cérebro” do sistema, controlando e executando tarefas específicas de forma automática.
+Ele integra em um único chip o processador (CPU), a memória e periféricos como entradas e saídas, temporizadores e interfaces de comunicação.
+Sua função é ler dados de sensores, processá-los conforme o programa e tomar decisões, enviando comandos para atuadores como motores, LEDs e relés. 
+Também permite a automação de tarefas repetitivas, realiza comunicação com outros dispositivos e opera em tempo real, respondendo rapidamente a eventos.
 
