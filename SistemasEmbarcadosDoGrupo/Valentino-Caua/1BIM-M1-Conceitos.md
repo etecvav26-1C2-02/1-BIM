@@ -156,3 +156,16 @@ Em um sistema de irrigação automatizado, sensores e atuadores atuam de forma c
 Esse processo elimina a necessidade de intervenção humana constante, economiza água e garante que as plantas recebam a quantidade ideal de irrigação no momento certo.
 
 ---
+## Exercício 10 — Pergunta de Investigação
+
+**Pergunta:** Explore um projeto pronto no Wokwi ou Tinkercad. Modifique algum parâmetro e descreva o que mudou.
+
+**Resposta:**
+
+**Projeto explorado:** Semáforo simples com Arduino no Tinkercad
+
+**Funcionamento original:** Três LEDs (vermelho, amarelo e verde) alternavam com os seguintes tempos: verde por 3 segundos, amarelo por 1 segundo e vermelho por 3 segundos, simulando um semáforo real.
+
+**Modificação realizada:** O tempo do LED verde foi alterado de 3000ms para 6000ms e o tempo do amarelo de 1000ms para 2000ms.
+
+**O que mudou:** O ciclo completo do semáforo passou a durar mais tempo. O LED verde ficou aceso por mais tempo, simulando uma via com maior fluxo de veículos. O amarelo mais longo deu mais tempo de reação antes da troca. Isso demonstra como um simples ajuste de parâmetro de tempo no código impacta diretamente o comportamento real do sistema, evidenciando a importância da programação na lógica de controle de sistemas embarcados.
