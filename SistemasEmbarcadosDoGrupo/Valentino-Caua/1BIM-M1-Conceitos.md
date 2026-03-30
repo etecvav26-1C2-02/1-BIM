@@ -81,3 +81,10 @@ Em resumo, o microcontrolador funciona como o "cérebro" do sistema embarcado, c
 - Microcontrolador (Arduino Uno)
 - Buzzer — alerta sonoro
 - LED vermelho — sinalização visual
+
+
+**Funcionamento:** O sensor mede continuamente a distância até a superfície da água. Quando o nível estiver abaixo do mínimo ou acima do máximo, o Arduino aciona o buzzer e o LED, alertando o morador.
+
+**Benefício:** Evita desperdício de água e falta de abastecimento de forma simples e de baixo custo.
+
+---
