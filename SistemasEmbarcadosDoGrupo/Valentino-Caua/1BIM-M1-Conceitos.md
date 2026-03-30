@@ -88,3 +88,12 @@ Em resumo, o microcontrolador funciona como o "cérebro" do sistema embarcado, c
 **Benefício:** Evita desperdício de água e falta de abastecimento de forma simples e de baixo custo.
 
 ---
+## Exercício 7 — Pergunta de Investigação
+
+**Pergunta:** No simulador, adicione um botão ao circuito do LED. Programe para que o LED acenda apenas quando o botão for pressionado. Descreva o funcionamento.
+
+**Resposta:**
+
+**Circuito:** O botão é conectado a um pino digital do Arduino (ex: pino 7) com resistor pull-down, e o LED ao pino 13.
+
+**Código:**
