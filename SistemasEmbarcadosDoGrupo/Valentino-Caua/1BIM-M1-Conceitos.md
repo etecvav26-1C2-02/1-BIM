@@ -148,3 +148,11 @@ Em resumo, o movimento maker democratiza o acesso à tecnologia e forma profissi
 Em um sistema de irrigação automatizado, sensores e atuadores atuam de forma complementar, formando um ciclo contínuo de monitoramento e resposta:
 
 1. **Sensor de umidade do solo** — detecta quando o solo está seco abaixo de um nível definido e envia o sinal ao microcontrolador
+2. **Microcontrolador (ex: Arduino)** — processa o dado recebido e decide se a irrigação deve ser ativada
+3. **Atuador (válvula solenoide ou bomba d'água)** — recebe o comando e libera a água para irrigar
+4. **Sensor de chuva (opcional)** — detecta precipitação e informa o controlador para não irrigar desnecessariamente
+5. **Ciclo de feedback** — após a irrigação, o sensor de umidade reavalia o solo e desativa o atuador quando a umidade atingir o nível ideal
+
+Esse processo elimina a necessidade de intervenção humana constante, economiza água e garante que as plantas recebam a quantidade ideal de irrigação no momento certo.
+
+---
