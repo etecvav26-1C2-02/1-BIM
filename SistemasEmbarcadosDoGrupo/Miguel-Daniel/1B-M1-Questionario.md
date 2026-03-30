@@ -31,3 +31,26 @@ Para montar esse sistema, precisaríamos dos seguintes componentes:
 **Sensores (Entradas):** O sistema utiliza um **sensor de presença** para acender as luzes automaticamente ao detectar pessoas, trabalhando em conjunto com um **sensor de luminosidade (LDR)**, que mede a luz natural para garantir que a lâmpada só acenda se o ambiente estiver escuro. Além disso, conta com um **sensor de temperatura** focado em ajustar a tonalidade da luz (proporcionando luz mais quente em dias frios e mais fria em dias quentes). Por fim, há um **botão físico** para manter a opção de controle manual, funcionando como um interruptor tradicional.
 
 **Atuador (Saída):** Um **módulo relé** ou **dimmer**, que recebe os comandos do microcontrolador para ligar, desligar ou controlar a intensidade da lâmpada de forma física.
+---
+
+### 🔎 Exercício 3 — Pergunta de investigação  
+Utilize o simulador Wokwi ou Tinkercad para montar um circuito com um LED. Teste diferentes tempos de delay e registre o comportamento observado.
+
+---
+
+### 🧪 Observações no Tinkercad  
+
+- **Delay de 500 ms:**  
+  A piscada é ritmada. O LED acende e apaga uma vez por segundo, sendo bem visível de observar.
+
+- **Delay de 2000 ms:**  
+  A piscada é lenta. O LED fica aceso por bastante tempo e depois apaga por um período igual, criando uma sensação de pausa entre os estados.
+
+---
+
+### 📊 Conclusões importantes  
+
+- O comando `delay()` pausa a execução do código pelo tempo informado (em milissegundos).  
+- Quanto maior o valor do delay, mais lento será o piscar do LED.  
+- O ciclo completo (aceso + apagado) é a soma dos dois delays.  
+- Para criar uma piscada assimétrica (por exemplo: aceso rápido e apagado lento), basta usar valores diferentes nos dois `delay()`.
