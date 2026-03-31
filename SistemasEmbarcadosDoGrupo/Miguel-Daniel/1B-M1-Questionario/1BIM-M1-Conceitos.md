@@ -129,3 +129,29 @@ Funciona assim: o sensor mede a umidade do solo e manda a informação para o mi
 Se o solo estiver seco, o microcontrolador liga o atuador para irrigar as plantas. Quando o solo fica no nível certo de umidade, ele desliga o atuador.
 Assim, os sensores me passam informações em tempo real e os atuadores agem de acordo, deixando o sistema funcionar automaticamente e de forma eficiente.
 
+# Exercício 10 — Relatório de Investigaçã  
+**Projeto Original:** [Sensor de Presença com LED](https://wokwi.com/projects/408942135537090561)
+
+## 1. Descrição do Projeto Original
+O projeto consiste em um sistema de automação simples utilizando um sensor infravermelho para detectar movimento no ambiente.
+
+* **Componentes Principais:**
+    * Placa ESP32
+    * Sensor PIR (Passive Infrared)
+    * LED e Resistor
+* **Funcionamento:** Quando o sensor PIR detecta uma variação de calor (movimento), ele envia um sinal digital para o ESP32. O código processa essa entrada e ativa o LED por um período fixo de **5 segundos** através da função `delay(5000)`.
+
+## 2. Modificação Realizada
+
+* **Parâmetro alterado:** Tempo de `delay`.
+* **Valor Original:** `5000` ms (5 segundos).
+* **Novo Valor:** `2000` ms (2 segundos).
+
+## 3. Resultados da Investigação (O que mudou?)
+A alteração impactou diretamente o comportamento dinâmico do circuito:
+
+1.  **Agilidade:** O sistema agora retorna ao estado de prontidão (espera) muito mais rápido.
+2.  **Economia de Energia:** O tempo de consumo do LED por ativação foi reduzido em **60%**.
+3.  **Usabilidade:** O comportamento tornou-se ideal para ambientes de passagem rápida (como um corredor curto), onde não é necessário que a luz permaneça acesa por muito tempo após o usuário passar.
+
+
