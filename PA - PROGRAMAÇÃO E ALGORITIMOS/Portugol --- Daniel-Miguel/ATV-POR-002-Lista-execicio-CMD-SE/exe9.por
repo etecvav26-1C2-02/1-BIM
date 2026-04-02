@@ -23,7 +23,7 @@ inclua biblioteca Matematica --> mat
 			se (raiz*raiz == numero){
 				escreva("o número é um quadrado perfeito: ")
 		}senao{
-				escreva("o quadradro não é perfeita: ")
+				escreva("o quadradro não é perfeito: ")
 		}
 	 }
 }
