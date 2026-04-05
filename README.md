@@ -22,7 +22,10 @@ Repositório do grupo para as atividades e projetos desenvolvidos durante o **1�
 │   ├── Portugol --- Daniel-Miguel/
 │   ├── Portugol --- Valentino-Caua/
 │   └── ...
-├── 📂 SistemasEmbarcadosDoGrupo/
+├── 📂 PW - PROGRAMACAO WEB 1/
+│   ├── Miguel-Daniel/
+│   └── Valentino-Caua/
+├── 📂 SE - SISTEMAS EMBARCADOS/
 │   ├── 1B-M1-Questionario/
 │   ├── Miguel-Daniel/
 │   └── Valentino-Caua/
