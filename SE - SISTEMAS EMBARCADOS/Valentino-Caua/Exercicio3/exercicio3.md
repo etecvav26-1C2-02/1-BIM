@@ -10,48 +10,19 @@
 
 ## 📁 Atividades
 
-### Atividade 01 — <!-- Nome do trabalho -->
+### Atividade 01 — <!-- 1C2_SistEmbarcados_Atividade02.pdf -->
 
 | Campo       | Info                          |
 |-------------|-------------------------------|
 | 📅 Data     | <!-- dd/mm/aaaa -->           |
 | 👤 Dupla    | Cauã · Valentino              |
-| 📌 Status   | ✅ Concluído / 🔄 Em andamento |
+| 📌 Status   | ✅ Concluído |
 
 🔗 **Link:** [Abrir no Tinkercad](https://www.tinkercad.com/things/9h5OYapCN8L-sistembarcadosatividade02)
 
 > 💬 <!-- Descrição breve do que o circuito/projeto faz -->
-> 
+> Verificando a variação do potenciômetro.
 
----
-
-### Atividade 02 — <!-- Nome do trabalho -->
-
-| Campo       | Info                          |
-|-------------|-------------------------------|
-| 📅 Data     | <!-- dd/mm/aaaa -->           |
-| 👤 Dupla    | Cauã · Valentino              |
-| 📌 Status   | ✅ Concluído / 🔄 Em andamento |
-
-🔗 **Link:** [Abrir no Tinkercad](<!-- cole o link aqui -->)
-
-> 💬 <!-- Descrição breve do que o circuito/projeto faz -->
-
----
-
-### Atividade 03 — <!-- Nome do trabalho -->
-
-| Campo       | Info                          |
-|-------------|-------------------------------|
-| 📅 Data     | <!-- dd/mm/aaaa -->           |
-| 👤 Dupla    | Cauã · Valentino              |
-| 📌 Status   | ✅ Concluído / 🔄 Em andamento |
-
-🔗 **Link:** [Abrir no Tinkercad](<!-- cole o link aqui -->)
-
-> 💬 <!-- Descrição breve do que o circuito/projeto faz -->
-
----
 
 ## 📝 Observações
 
