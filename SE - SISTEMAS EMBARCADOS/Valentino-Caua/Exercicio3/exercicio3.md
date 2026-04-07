@@ -2,9 +2,9 @@
 # 🔧 Trabalhos — Tinkercad
 
 > **Curso:** Desenvolvimento de Sistemas  
-> **Disciplina:** <!-- ex: Sistemas Embarcados / IoT -->  
-> **Dupla:** Cauã · Valentino Chagas Hoehne  
-> **Professor:** Prof. José Madreira  
+> **Disciplina:** Sistemas Embarcados / IoT  
+> **Dupla:** Cauã Balzaneli · Valentino Chagas Hoehne  
+> **Professor:** Prof. Ronildo e Roberto
 
 ---
 
