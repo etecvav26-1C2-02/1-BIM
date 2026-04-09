@@ -370,5 +370,50 @@ inclua biblioteca Matematica --> mat
 ```
  
 ---
+## 🎬 Exercício 10 — Classificação Indicativa
+ 
+> Lê a classificação indicativa de um filme e exibe sua categoria: até 10 anos (infantil), de 11 a 14 (infantojuvenil), de 15 a 17 (juvenil) e acima de 17 (adulto).
+ 
+```portugol
+/*
+   Autores: Caua Balzaneli, Valentino Hoehne
+   Data: 26/02/2026
+   Finalidade: Ler a classificação indicativa de um filme. Identificar e exibir a categoria
+               desse filme, com base na classificação indicativa: até 10 anos (infantil),
+               de 11 a 14 anos (infantojuvenil), de 15 a 17 anos (juvenil) e acima de 17
+               anos (adulto).
+*/
+ 
+programa
+{
+	
+inclua biblioteca Matematica --> mat
+ 
+    funcao inicio()
+    {
+		inteiro class
+		escreva("Qual é a classificação indicativa do filme? : ")
+		leia(class)
+ 
+		se (class <= 10){
+			escreva("A categoria do filme é INFANTIL")
+		}senao se(class <= 14 e class >= 11){
+			escreva("A categoria do filme é INFANTOJUVENIL")
+		}senao se(class >= 15 e class <= 17){
+			escreva("A categoria do filme é JUVENIL")
+		}senao se(class > 17){
+			escreva("A categoria do filme é ADULTO SIGMA")
+		}
+    }
+}
+```
+ 
+---
+ 
+<div align="center">
+ 
+Desenvolvido com 💙 usando [Portugol Studio](https://univali-lite.github.io/Portugol-Studio/)
+ 
+</div>
  
 ---
