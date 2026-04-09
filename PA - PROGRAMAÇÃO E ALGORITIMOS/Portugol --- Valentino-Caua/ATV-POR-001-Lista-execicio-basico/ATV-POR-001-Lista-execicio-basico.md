@@ -201,4 +201,41 @@ programa
 }
 ```
  
+## 🅿️ Exercício 04 — Estacionamento
+ 
+> Lê o tempo de permanência de um veículo em um estacionamento e calcula o preço a pagar. As primeiras 2 horas custam R$ 2,00 cada; horas adicionais custam R$ 1,00.
+ 
+```portugol
+/*
+   Autores: Caua Balzaneli, Valentino Hoehne
+   Data: 26/02/2026
+   Finalidade: Ler o tempo de permanência de um veículo em um estacionamento.
+               Calcular e exibir o preço a ser pago, considerando o tempo de permanência
+               do veículo. As primeiras 2 horas custam R$ 2,00 cada, e cada hora
+               adicional custa R$1,00.
+*/
+ 
+programa
+{
+    funcao inicio()
+    {
+		inteiro tempoPermanencia
+		inteiro precoFinal
+ 
+		escreva("Qual é o tempo de permanência (Em Horas): ")
+		leia(tempoPermanencia)
+ 
+		se (tempoPermanencia <= 2)
+		{
+			precoFinal = (tempoPermanencia * 2)
+			escreva("De acordo com o tempo de permanência, o preço final é: ", precoFinal)
+		}
+		senao se (tempoPermanencia > 2) {
+			precoFinal = ((precoFinal - 2) * 1 + 4) 
+			escreva(precoFinal)
+		}
+    }
+}
+```
+ 
 ---
