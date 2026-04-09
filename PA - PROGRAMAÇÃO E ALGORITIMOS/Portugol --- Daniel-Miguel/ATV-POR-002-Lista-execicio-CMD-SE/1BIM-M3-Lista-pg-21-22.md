@@ -199,3 +199,57 @@ programa {
       escreva ("Tarifa completa")
   }
 }
+```
+## Exercício 7 — Verificar Vogal
+📌 Enunciado
+Ler um caractere e verificar se ele é uma vogal. Exibir o caractere informado e indicar se é ou não uma vogal.
+
+```
+programa
+{
+	
+	funcao inicio()
+	{
+	
+		caracter letra
+
+		escreva("qual é a letra: ")
+		leia(letra)
+	
+		caracter vogal[10] = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' }
+
+	 	se (letra == vogal[0] ou letra == vogal[1] ou letra == vogal[2] ou letra == vogal[3] ou letra == vogal[4] 
+	 	ou letra == vogal[5] ou letra == vogal[6] ou letra == vogal[7] ou letra == vogal[8] ou letra == vogal[9]) {
+			escreva("sua letra é uma vogal")
+
+	 	} senao {
+	 		escreva("consoante")
+	 	}
+	}
+}
+
+```
+## Exercício 8 . Maior de Três Números
+Enunciado
+Ler três números inteiros e exibir o maior entre eles.
+```
+programa {
+    funcao inicio() {
+        real num1, num2, num3, maior
+
+        escreva("escreva o três numeros : ")
+        leia(num1)
+        leia(num2)
+        leia(num3)
+
+        maior = num1
+
+        se (num2 > maior) 
+            maior = num2
+
+        se (num3 > maior) 
+            maior = num3
+
+        escreva("O maior é: ", maior)
+    }
+}
