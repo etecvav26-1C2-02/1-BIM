@@ -118,5 +118,7 @@ programa
     }
 }
 ```
- 
 ---
+## 🛍️ Exercício 03 — Desconto em Compras
+ 
+> Lê o valor de uma compra e calcula o desconto conforme a faixa: abaixo de R$ 100 sem desconto; entre R$ 100 e R$ 500 desconto de 10%; acima de R$ 500 desconto de 20%.
