@@ -67,5 +67,7 @@ programa
 	}
 }
 ```
-
 ---
+## 🔺 Exercício 02 — Classificação de Triângulo
+ 
+> Lê três valores reais, verifica se formam um triângulo válido e, em caso positivo, classifica como equilátero, isósceles ou escaleno.
