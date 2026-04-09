@@ -15,12 +15,12 @@
 ---
 
 ## 📋 Índice
- 
+
 | # | Exercício | Conceito Principal |
 |---|-----------|-------------------|
 | [01](#-exercício-01---ano-bissexto) | Ano Bissexto | Operador módulo, condicionais |
 | [02](#-exercício-02---classificação-de-triângulo) | Classificação de Triângulo | Condicionais aninhadas |
-| [03](#-exercício-03---em-branco) | — | — |
+| [03](#️-exercício-03---desconto-em-compras) | Desconto em Compras | Condicionais com reais |
 | [04](#-exercício-04---estacionamento) | Estacionamento | Cálculo com condicionais |
 | [05](#-exercício-05---etanol-ou-gasolina) | Etanol ou Gasolina | Comparação de valores reais |
 | [06](#-exercício-06---tarifa-de-passagem) | Tarifa de Passagem | Faixas etárias |
@@ -28,6 +28,5 @@
 | [08](#-exercício-08---maior-de-três-números) | Maior de Três Números | Comparação múltipla |
 | [09](#-exercício-09---quadrado-perfeito) | Quadrado Perfeito | Biblioteca Matemática |
 | [10](#-exercício-10---classificação-indicativa) | Classificação Indicativa | Faixas com `senao se` |
- 
+
 ---
- 
