@@ -300,5 +300,40 @@ programa
 ```
  
 ---
+## 🔢 Exercício 08 — Maior de Três Números
+ 
+> Lê três números inteiros e exibe o maior entre eles.
+ 
+```portugol
+/*
+   Autores: Caua Balzaneli, Valentino Hoehne
+   Data: 26/02/2026
+   Finalidade: Ler três números inteiros e exibir o maior desses três números.
+*/
+programa
+{
+    funcao inicio()
+    {
+        inteiro num1, num2, num3
+ 
+        escreva("Número 1: ")
+        leia(num1)
+        escreva("Número 2: ")
+        leia(num2)
+        escreva("Número 3: ")
+        leia(num3)
+ 
+        se (num1 >= num2 e num1 >= num3) {
+            escreva("O maior número é: ", num1)
+        } senao se (num2 >= num1 e num2 >= num3) {
+            escreva("O maior número é: ", num2)
+        } senao {
+            escreva("O maior número é: ", num3)
+        }
+    }
+}
+```
+ 
+---
  
 ---
