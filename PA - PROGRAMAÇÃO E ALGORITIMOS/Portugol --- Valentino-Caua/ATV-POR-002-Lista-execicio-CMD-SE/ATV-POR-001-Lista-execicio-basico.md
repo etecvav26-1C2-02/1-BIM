@@ -268,7 +268,37 @@ programa
 ```
  
 ---
+## 🔤 Exercício 07 — Verificação de Vogal
+ 
+> Lê um caractere e verifica se é uma vogal (maiúscula ou minúscula), exibindo o resultado.
+ 
+```portugol
+/*
+   Autores: Valentino Hoehne
+   Data: 26/02/2026
+   Finalidade: Ler um caractere. Verificar se o caractere lido é uma vogal.
+               Exibir o caractere lido com a informação se é ou não uma vogal.
+*/
+ 
+programa
+{
+    funcao inicio()
+    {
+    	caracter letra
+		escreva("letra: ")
+		leia(letra)
+ 
+		se (letra == 'a' ou letra == 'e' ou letra == 'i' ou letra == 'o' ou letra == 'u'
+		    ou letra == 'A' ou letra == 'E' ou letra == 'I' ou letra == 'O' ou letra == 'U') {
+			   escreva(letra, ": vogal")
+			}
+			senao {
+			   escreva(letra, ": não é uma vogal")
+		}
+    }
 }
 ```
+ 
+---
  
 ---
