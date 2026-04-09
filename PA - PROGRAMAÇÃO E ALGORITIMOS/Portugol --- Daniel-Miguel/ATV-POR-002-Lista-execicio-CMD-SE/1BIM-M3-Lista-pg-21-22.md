@@ -143,7 +143,7 @@ programa
 }
 ```
 ## Exercico 5 Operadores Aritméticos
-
+```
 programa
 {
 	funcao inicio()
