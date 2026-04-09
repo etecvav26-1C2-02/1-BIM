@@ -143,6 +143,13 @@ programa
 }
 ```
 ## Exercico 5 Operadores Aritméticos
+📌 Enunciado
+Ler o preço do etanol e da gasolina e indicar qual combustível é mais vantajoso.
+
+👉 Regra:
+
+Se o etanol custar até 70% do preço da gasolina → usar etanol
+Caso contrário → usar gasolina
 ```
 programa
 {
