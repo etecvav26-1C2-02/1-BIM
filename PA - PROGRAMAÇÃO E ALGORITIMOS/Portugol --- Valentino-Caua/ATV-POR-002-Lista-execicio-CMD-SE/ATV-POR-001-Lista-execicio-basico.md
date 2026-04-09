@@ -335,5 +335,40 @@ programa
 ```
  
 ---
+## √ Exercício 09 — Quadrado Perfeito
+ 
+> Lê um número e verifica se é um quadrado perfeito, ou seja, se sua raiz quadrada é um número inteiro. Utiliza a biblioteca `Matematica`.
+ 
+```portugol
+/*
+   Autores: Caua Balzaneli, Valentino Hoehne
+   Data: 26/02/2026
+   Finalidade: Ler um número, verificar e exibir se o número é um quadrado perfeito,
+               ou seja, se a raiz quadrada dele é um número inteiro.
+*/
+ 
+programa
+{
+	
+inclua biblioteca Matematica --> mat
+ 
+    funcao inicio()
+    {
+    	real lado
+		escreva("tamanho do lado: ")
+		leia(lado)
+ 
+	real raiz = mat.raiz(lado, 2.0)
+ 
+		se (raiz * raiz == lado){
+			escreva("O número é um quadrado perfeito")
+		} senao {
+			escreva ("O número não é um quadrado perfeito")
+		}
+    }
+}
+```
+ 
+---
  
 ---
