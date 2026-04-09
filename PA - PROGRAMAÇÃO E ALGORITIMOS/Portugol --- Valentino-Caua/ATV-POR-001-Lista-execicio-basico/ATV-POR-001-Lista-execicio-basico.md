@@ -201,3 +201,38 @@ programa
 ```
  
 ---
+## ⛽ Exercício 05 — Etanol ou Gasolina
+ 
+> Lê o preço do etanol e da gasolina. Sugere o combustível mais vantajoso: se o etanol custar até 70% do preço da gasolina, recomenda álcool; caso contrário, gasolina.
+ 
+```portugol
+/*
+   Autores: Caua Balzaneli, Valentino Hoehne
+   Data: 26/02/2026
+   Finalidade: Ler o preço do etanol e da gasolina. Sugerir o tipo de combustível a ser
+               utilizado em um carro, com base no preço: se o preço do etanol for até
+               70% do preço da gasolina, é recomendado usar álcool; caso contrário,
+               usar gasolina. Exibir o resultado sugerido.
+*/
+ 
+programa
+{
+    funcao inicio()
+    {
+		real precoGas, precoEta, precoGas70
+		escreva("Qual o preço do Etanol: ")
+		leia(precoEta)
+		escreva("Qual o preço da Gasolina: ")
+		leia(precoGas)
+		
+		precoGas70 = (precoGas*0.70)
+		se (precoEta <= precoGas70){
+			escreva("Para seu caso, é recomendado usar Álcool")
+		}senao{
+			escreva("Para seu caso, é recomendado usar Gasolina")
+		}
+    }
+}
+```
+ 
+---
