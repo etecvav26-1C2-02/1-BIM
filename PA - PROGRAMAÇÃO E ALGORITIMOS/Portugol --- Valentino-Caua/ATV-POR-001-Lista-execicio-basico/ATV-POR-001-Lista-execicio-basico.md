@@ -30,3 +30,6 @@
 | [10](#-exercício-10---classificação-indicativa) | Classificação Indicativa | Faixas com `senao se` |
 
 ---
+## 🔵 Exercício 01 — Ano Bissexto
+
+> Lê um ano e verifica se é bissexto. Um ano é bissexto se for divisível por 400, ou se for divisível por 4 mas não por 100.
