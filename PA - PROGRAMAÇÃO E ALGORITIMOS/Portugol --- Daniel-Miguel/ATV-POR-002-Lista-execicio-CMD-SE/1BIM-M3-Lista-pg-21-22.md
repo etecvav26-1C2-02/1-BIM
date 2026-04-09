@@ -173,3 +173,29 @@ programa
 	}
 }
 ```
+## Exercício 6 — Classificação de Tarifa por Idade
+📌 Enunciado
+Ler a idade do passageiro e determinar o tipo de tarifa:
+
+Até 2 anos → Gratuita
+De 3 a 12 anos → Meia tarifa
+Acima de 12 anos → Tarifa completa
+O programa deve exibir o tipo de tarifa correspondente.
+```
+programa {
+
+  funcao inicio() {
+    inteiro idade 
+    escreva ("qual a idade :")
+    leia (idade)
+      
+    se (idade <= 2) 
+      escreva ("Entrada gratuita")
+      
+    senao se (idade <= 12)
+      escreva ("Meia entrada")
+      
+    senao
+      escreva ("Tarifa completa")
+  }
+}
